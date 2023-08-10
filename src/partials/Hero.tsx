@@ -29,7 +29,7 @@ const Hero = () => (
       }
       avatar={
         <img
-          className="h-80 w-64"
+          className="hidden h-80 w-64"
           src="/assets/images/avatar.svg"
           alt="Avatar image"
           loading="lazy"
